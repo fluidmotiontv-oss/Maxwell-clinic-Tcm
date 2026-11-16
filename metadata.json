@@ -1,0 +1,6 @@
+{
+  "name": "Maxwell Clinic - Bio-Agent & TCM Clinical Operations Engine",
+  "description": "Clinical AI engine for Maxwell Clinic bridging Traditional Chinese Medicine diagnostics, modern bio-marker correlation, digital frequency therapeutics, and bio-agent orchestration.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
